@@ -2,3 +2,7 @@
     color: rgb(43, 57, 144);
     font-family: var(--e-global-typography-primary-font-family), Sans-serif;
 }
+
+.elementor-heading-title elementor-size-default {
+    color: rgb(43, 57, 144);
+}
