@@ -632,4 +632,5 @@ var ravenFormsTranslations = {"validation":{"required":"Please fill in this fiel
 </script>
 <script type='text/javascript' src='https://erum2020.github.io/wp-content/plugins/raven/assets/js/frontend.min.js?ver=1.9.2'></script>
 <script type='text/javascript' src='https://erum2020.github.io/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4'></script>
+<link rel="stylesheet" href="custom-style.css"></link>
 </body></html>
